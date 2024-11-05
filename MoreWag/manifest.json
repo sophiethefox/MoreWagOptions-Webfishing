@@ -1,0 +1,8 @@
+{
+  "Id": "MoreWag",
+  "AssemblyPath": "MoreWag.dll",
+  "PackPath": "MoreWag.pck",
+  "Dependencies": [
+    "BlueberryWolfi.APIs"
+  ]
+}
